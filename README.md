@@ -11,3 +11,5 @@ Each Lecture Name is linked to the related source code.
 [General Setup](../../tree/9d5cc88bd19ce2b9f88289b7587da1487ed17827)
 
 [Load Custom Javascript File](../../tree/b0f20ea53bb915cc226fd0c3e2857909d66ff1d5)
+
+[Selector Basics](../../tree/1db0a21b5e900c35e7604d6be047366922c2dd51)
