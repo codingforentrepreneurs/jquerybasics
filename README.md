@@ -1,4 +1,4 @@
-jquery Basics
+jQuery Basics
 =========
 
 A Coding for Entrepreneurs tutorial on the basics of [jQuery](http://jquery.com). Code as been provided to help you better understand jQuery. 
