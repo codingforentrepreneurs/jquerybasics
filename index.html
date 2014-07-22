@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+</head>
+
+
+<body>
+
+
+<!-- Using Google jQuery CDN -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+<!-- Using jQuery CDN
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>  -->
+
+
+<!-- Relative Import 
+Below assumes that the "js" folder is in the same folder as the page that is loading the jQuery which is this page ("index.html").
+<script src='./js/jquery-1.11.1.min.js'></script> 
+or even
+<script src='js/jquery-1.11.1.min.js'></script> 
+-->
+
+<!-- With Django 
+<script src='{{ STATIC_URL }}js/jquery-1.11.1.min.js'></script> -->
+
+<!-- With Django Load Static
+{% load staticfiles %}
+<script src='{% static "js/jquery-1.11.1.min.js" %}'> </script>  --> 
+
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		alert("hello");
+	});
+</script>
+</body>
+</html>
