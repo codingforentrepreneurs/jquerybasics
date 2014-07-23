@@ -15,3 +15,5 @@ Each Lecture Name is linked to the related source code.
 [Selector Basics](../../tree/1db0a21b5e900c35e7604d6be047366922c2dd51)
 
 [Prevent Default](../../tree/b369aee87f6b567538f271cb7d7d6b365add34cb)
+
+[Fading](../../tree/14418f13338cb3986a5a289c3d0209877f96c201)
